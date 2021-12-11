@@ -43,7 +43,7 @@ jobs:
       - name: build-push
         uses: docker/build-push-action@v1
         with:
-          username: Fearthe13372
+          username: fearthe13372
           password: Fusterun465231
           repository: fearthe13372/kursovaya
           target: api
